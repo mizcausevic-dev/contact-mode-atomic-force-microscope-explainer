@@ -11,7 +11,7 @@
       "glyph": "afm",
       "label": "Tip cantilever scanner",
       "role": "path",
-      "x": 0.12,
+      "x": 0.14,
       "y": 0.32
     },
     {
@@ -19,7 +19,7 @@
       "glyph": "detector",
       "label": "Detector",
       "role": "sense",
-      "x": 0.373,
+      "x": 0.38,
       "y": 0.32
     },
     {
@@ -27,7 +27,7 @@
       "glyph": "sample",
       "label": "Sample",
       "role": "path",
-      "x": 0.627,
+      "x": 0.62,
       "y": 0.32
     },
     {
@@ -35,7 +35,7 @@
       "glyph": "probe",
       "label": "Interaction",
       "role": "path",
-      "x": 0.88,
+      "x": 0.86,
       "y": 0.32
     },
     {
@@ -43,32 +43,32 @@
       "glyph": "feedback",
       "label": "Feedback",
       "role": "sense",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "sample",
       "label": "Surface",
       "role": "path",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.38,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "topography",
       "label": "Topography",
       "role": "path",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.62,
+      "y": 0.7
     },
     {
       "id": "n8",
       "glyph": "doc",
       "label": "Uncertainty",
       "role": "path",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
