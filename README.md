@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/contact-mode-atomic-force-microscope-explainer/
 
+Repository: https://github.com/mizcausevic-dev/contact-mode-atomic-force-microscope-explainer
+
 ## What this is
 
 An interactive anatomy plate for Contact-Mode Atomic-Force Microscope. Play, scrub, or jump the five stages. The same frame always draws the same picture.
